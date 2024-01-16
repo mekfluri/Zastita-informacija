@@ -1,0 +1,22 @@
+C:\Users\Anja\OneDrive\Radna površina\Zastita\prviKlijent\bin\Debug\prviKlijent.exe.config
+C:\Users\Anja\OneDrive\Radna površina\Zastita\prviKlijent\bin\Debug\prviKlijent.exe
+C:\Users\Anja\OneDrive\Radna površina\Zastita\prviKlijent\bin\Debug\prviKlijent.pdb
+C:\Users\Anja\OneDrive\Radna površina\Zastita\prviKlijent\obj\Debug\prviKlijent.csproj.AssemblyReference.cache
+C:\Users\Anja\OneDrive\Radna površina\Zastita\prviKlijent\obj\Debug\prviKlijent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anja\OneDrive\Radna površina\Zastita\prviKlijent\obj\Debug\prviKlijent.Properties.Resources.resources
+C:\Users\Anja\OneDrive\Radna površina\Zastita\prviKlijent\obj\Debug\prviKlijent.csproj.GenerateResource.cache
+C:\Users\Anja\OneDrive\Radna površina\Zastita\prviKlijent\obj\Debug\prviKlijent.csproj.CoreCompileInputs.cache
+C:\Users\Anja\OneDrive\Radna površina\Zastita\prviKlijent\obj\Debug\prviKlijent.exe
+C:\Users\Anja\OneDrive\Radna površina\Zastita\prviKlijent\obj\Debug\prviKlijent.pdb
+C:\Users\Anja\OneDrive\Radna površina\Zastita\prviKlijent\obj\Debug\prviKlijent.Form1.resources
+C:\Users\Anja\OneDrive\Radna površina\Zastita\Zastita zadatak jedan\prviKlijent\bin\Debug\prviKlijent.exe.config
+C:\Users\Anja\OneDrive\Radna površina\Zastita\Zastita zadatak jedan\prviKlijent\bin\Debug\prviKlijent.exe
+C:\Users\Anja\OneDrive\Radna površina\Zastita\Zastita zadatak jedan\prviKlijent\bin\Debug\prviKlijent.pdb
+C:\Users\Anja\OneDrive\Radna površina\Zastita\Zastita zadatak jedan\prviKlijent\obj\Debug\prviKlijent.csproj.AssemblyReference.cache
+C:\Users\Anja\OneDrive\Radna površina\Zastita\Zastita zadatak jedan\prviKlijent\obj\Debug\prviKlijent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anja\OneDrive\Radna površina\Zastita\Zastita zadatak jedan\prviKlijent\obj\Debug\prviKlijent.Form1.resources
+C:\Users\Anja\OneDrive\Radna površina\Zastita\Zastita zadatak jedan\prviKlijent\obj\Debug\prviKlijent.Properties.Resources.resources
+C:\Users\Anja\OneDrive\Radna površina\Zastita\Zastita zadatak jedan\prviKlijent\obj\Debug\prviKlijent.csproj.GenerateResource.cache
+C:\Users\Anja\OneDrive\Radna površina\Zastita\Zastita zadatak jedan\prviKlijent\obj\Debug\prviKlijent.csproj.CoreCompileInputs.cache
+C:\Users\Anja\OneDrive\Radna površina\Zastita\Zastita zadatak jedan\prviKlijent\obj\Debug\prviKlijent.exe
+C:\Users\Anja\OneDrive\Radna površina\Zastita\Zastita zadatak jedan\prviKlijent\obj\Debug\prviKlijent.pdb
